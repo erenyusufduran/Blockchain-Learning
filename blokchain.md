@@ -1,4 +1,6 @@
-<h1> Blockchain Kaynakları <h1>
+<h1> Blockchain Kaynakları </h1>
+
+<p> Öncelikle blockchain konusunda hiçbir bilginiz yok ise BTK Akademi'nin yayınladığı <a href="https://www.btkakademi.gov.tr/portal/course/blokzincir-ve-kripto-paralar-10569"> Blokzincir ve Kripto Paralar </a> adlı kursu izleyebilirsiniz. </p>
 
 <h2> Web 3.0 </h2>
 
