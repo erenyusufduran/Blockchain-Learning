@@ -16,7 +16,11 @@
 
 ### WEB 3.0
 
----
+
+> BEYZA
+--- 
+
+
 
 ## **BLOCKCHAIN TEKNOLOJİSİNİN FELSEFESİ**
 
@@ -41,3 +45,5 @@
 ## **MAAŞ OLANAKLARI**
 
 ## **ÖRNEK PROJELER**
+
+> DUYGU

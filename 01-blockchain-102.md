@@ -19,7 +19,7 @@
 ### COIN NEDİR?
 
 ### FARKLARI
-
+> Gökşen
 ---
 
 ## **Blockchain Uygulama Alanları**
@@ -31,3 +31,4 @@
 ## **NODE**
 
 ## **MINING**
+> Eren
